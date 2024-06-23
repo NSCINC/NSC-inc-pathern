@@ -17,7 +17,6 @@ O contrato permite:
 
 - **Proprietário Inicial**: Lucas Januario do Nascimento
   - Data de Nascimento: 12/07/1999
-  - CPF: 48761013789
   - Localização: São Paulo, Brasil
 - **Herdeiro**: Gabriela Januário do Nascimento
 
