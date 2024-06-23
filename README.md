@@ -1,6 +1,5 @@
-# NSC-inc-pathernAqui está um exemplo de um arquivo README.md que você pode usar para documentar o contrato inteligente de registro de patentes. O arquivo inclui uma descrição do projeto, instruções de deploy e uso, e detalhes sobre a patente.
 
-### README.md
+
 
 markdown
 # Patent Registry Contract
