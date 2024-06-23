@@ -111,7 +111,7 @@ contract PatentRegistry is ERC721, Ownable {
      - `_owner`: "0xYourEthereumAddress" (substitua pelo seu endereço Ethereum real)
      - `_name`: "Lucas Januario do Nascimento"
      - `_birthDate`: "12/07/1999"
-     - `_cpf`: "48761013789"
+  
      - `_location`: "São Paulo, Brasil"
      - `_heirName`: "Gabriela Januário do Nascimento"
 
